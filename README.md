@@ -1,7 +1,7 @@
-#Implementações de EDA
+# Implementações de EDA
 Algumas implementações de Estrutura de Dados e Algoritmos em Python3
 
-###Ordenação
+### Ordenação
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
